@@ -1,0 +1,1739 @@
+
+first layer:  6  second layer:  12  third layer:  20
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.312
+Accuracy of the network on the 2772 test images: 11.111111 %
+[3,  2500] loss: 2.715
+first layer:  6  second layer:  12  third layer:  20
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.312
+Accuracy of the network on the 2772 test images: 11.111111 %
+[3,  2500] loss: 2.715
+Accuracy of the network on the 2772 test images: 32.972583 %
+[4,  2500] loss: 1.901
+Accuracy of the network on the 2772 test images: 48.845599 %
+[5,  2500] loss: 1.389
+Accuracy of the network on the 2772 test images: 57.647908 %
+[6,  2500] loss: 1.082
+Accuracy of the network on the 2772 test images: 63.600289 %
+[7,  2500] loss: 0.853
+Accuracy of the network on the 2772 test images: 60.930736 %
+[8,  2500] loss: 0.718
+Accuracy of the network on the 2772 test images: 64.249639 %
+[9,  2500] loss: 0.561
+Accuracy of the network on the 2772 test images: 64.790765 %
+[10,  2500] loss: 0.568
+Accuracy of the network on the 2772 test images: 60.317460 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  21
+[1,  2500] loss: 3.330
+Accuracy of the network on the 2772 test images: 6.457431 %
+[2,  2500] loss: 2.983
+Accuracy of the network on the 2772 test images: 24.639250 %
+[3,  2500] loss: 2.187
+Accuracy of the network on the 2772 test images: 44.913420 %
+[4,  2500] loss: 1.707
+Accuracy of the network on the 2772 test images: 51.190476 %
+[5,  2500] loss: 1.378
+Accuracy of the network on the 2772 test images: 56.204906 %
+[6,  2500] loss: 1.151
+Accuracy of the network on the 2772 test images: 57.106782 %
+[7,  2500] loss: 0.956
+Accuracy of the network on the 2772 test images: 58.694084 %
+[8,  2500] loss: 0.849
+Accuracy of the network on the 2772 test images: 62.950938 %
+[9,  2500] loss: 0.684
+Accuracy of the network on the 2772 test images: 62.734488 %
+[10,  2500] loss: 0.685
+Accuracy of the network on the 2772 test images: 59.812410 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  22
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.787879 %
+[2,  2500] loss: 3.067
+Accuracy of the network on the 2772 test images: 23.268398 %
+[3,  2500] loss: 2.224
+Accuracy of the network on the 2772 test images: 43.326118 %
+[4,  2500] loss: 1.611
+Accuracy of the network on the 2772 test images: 53.860029 %
+[5,  2500] loss: 1.225
+Accuracy of the network on the 2772 test images: 55.627706 %
+[6,  2500] loss: 0.999
+Accuracy of the network on the 2772 test images: 63.383838 %
+[7,  2500] loss: 0.790
+Accuracy of the network on the 2772 test images: 64.069264 %
+[8,  2500] loss: 0.669
+Accuracy of the network on the 2772 test images: 63.023088 %
+[9,  2500] loss: 0.668
+Accuracy of the network on the 2772 test images: 60.822511 %
+[10,  2500] loss: 0.603
+Accuracy of the network on the 2772 test images: 60.101010 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  23
+[1,  2500] loss: 3.331
+Accuracy of the network on the 2772 test images: 6.349206 %
+[2,  2500] loss: 2.939
+Accuracy of the network on the 2772 test images: 28.354978 %
+[3,  2500] loss: 2.136
+Accuracy of the network on the 2772 test images: 42.027417 %
+[4,  2500] loss: 1.604
+Accuracy of the network on the 2772 test images: 54.220779 %
+[5,  2500] loss: 1.253
+Accuracy of the network on the 2772 test images: 61.075036 %
+[6,  2500] loss: 1.040
+Accuracy of the network on the 2772 test images: 60.894661 %
+[7,  2500] loss: 0.878
+Accuracy of the network on the 2772 test images: 62.626263 %
+[8,  2500] loss: 0.745
+Accuracy of the network on the 2772 test images: 62.806638 %
+[9,  2500] loss: 0.646
+Accuracy of the network on the 2772 test images: 61.940837 %
+[10,  2500] loss: 0.621
+Accuracy of the network on the 2772 test images: 63.311688 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  24
+[1,  2500] loss: 3.330
+Accuracy of the network on the 2772 test images: 8.874459 %
+[2,  2500] loss: 2.890
+Accuracy of the network on the 2772 test images: 27.597403 %
+[3,  2500] loss: 2.021
+Accuracy of the network on the 2772 test images: 41.017316 %
+[4,  2500] loss: 1.480
+Accuracy of the network on the 2772 test images: 55.699856 %
+[5,  2500] loss: 1.184
+Accuracy of the network on the 2772 test images: 58.982684 %
+[6,  2500] loss: 0.902
+Accuracy of the network on the 2772 test images: 61.580087 %
+[7,  2500] loss: 0.735
+Accuracy of the network on the 2772 test images: 60.858586 %
+[8,  2500] loss: 0.652
+Accuracy of the network on the 2772 test images: 61.544012 %
+[9,  2500] loss: 0.628
+Accuracy of the network on the 2772 test images: 64.790765 %
+[10,  2500] loss: 0.501
+Accuracy of the network on the 2772 test images: 65.476190 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  25
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.241
+Accuracy of the network on the 2772 test images: 17.027417 %
+[3,  2500] loss: 2.513
+Accuracy of the network on the 2772 test images: 38.419913 %
+[4,  2500] loss: 1.810
+Accuracy of the network on the 2772 test images: 51.370851 %
+[5,  2500] loss: 1.274
+Accuracy of the network on the 2772 test images: 59.812410 %
+[6,  2500] loss: 0.974
+Accuracy of the network on the 2772 test images: 63.059163 %
+[7,  2500] loss: 0.753
+Accuracy of the network on the 2772 test images: 65.584416 %
+[8,  2500] loss: 0.611
+Accuracy of the network on the 2772 test images: 61.832612 %
+[9,  2500] loss: 0.513
+Accuracy of the network on the 2772 test images: 66.089466 %
+[10,  2500] loss: 0.453
+Accuracy of the network on the 2772 test images: 60.137085 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  26
+[1,  2500] loss: 3.322
+Accuracy of the network on the 2772 test images: 9.054834 %
+[2,  2500] loss: 2.804
+Accuracy of the network on the 2772 test images: 28.427128 %
+[3,  2500] loss: 2.036
+Accuracy of the network on the 2772 test images: 46.536797 %
+[4,  2500] loss: 1.523
+Accuracy of the network on the 2772 test images: 57.503608 %
+[5,  2500] loss: 1.166
+Accuracy of the network on the 2772 test images: 59.379509 %
+[6,  2500] loss: 0.905
+Accuracy of the network on the 2772 test images: 63.167388 %
+[7,  2500] loss: 0.748
+Accuracy of the network on the 2772 test images: 61.940837 %
+[8,  2500] loss: 0.667
+Accuracy of the network on the 2772 test images: 62.770563 %
+[9,  2500] loss: 0.582
+Accuracy of the network on the 2772 test images: 54.220779 %
+[10,  2500] loss: 0.498
+Accuracy of the network on the 2772 test images: 65.115440 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  27
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.607504 %
+[2,  2500] loss: 2.946
+Accuracy of the network on the 2772 test images: 22.186147 %
+[3,  2500] loss: 2.161
+Accuracy of the network on the 2772 test images: 33.838384 %
+[4,  2500] loss: 1.583
+Accuracy of the network on the 2772 test images: 57.828283 %
+[5,  2500] loss: 1.212
+Accuracy of the network on the 2772 test images: 59.523810 %
+[6,  2500] loss: 0.974
+Accuracy of the network on the 2772 test images: 59.523810 %
+[7,  2500] loss: 0.764
+Accuracy of the network on the 2772 test images: 63.239538 %
+[8,  2500] loss: 0.638
+Accuracy of the network on the 2772 test images: 67.352092 %
+[9,  2500] loss: 0.542
+Accuracy of the network on the 2772 test images: 63.347763 %
+[10,  2500] loss: 0.633
+Accuracy of the network on the 2772 test images: 50.216450 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  28
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 4.184704 %
+[3,  2500] loss: 3.083
+Accuracy of the network on the 2772 test images: 22.943723 %
+[4,  2500] loss: 2.214
+Accuracy of the network on the 2772 test images: 44.552670 %
+[5,  2500] loss: 1.581
+Accuracy of the network on the 2772 test images: 55.591631 %
+[6,  2500] loss: 1.237
+Accuracy of the network on the 2772 test images: 61.616162 %
+[7,  2500] loss: 1.002
+Accuracy of the network on the 2772 test images: 64.574315 %
+[8,  2500] loss: 0.817
+Accuracy of the network on the 2772 test images: 64.321789 %
+[9,  2500] loss: 0.721
+Accuracy of the network on the 2772 test images: 64.285714 %
+[10,  2500] loss: 0.597
+Accuracy of the network on the 2772 test images: 60.137085 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  29
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 4.906205 %
+[2,  2500] loss: 3.099
+Accuracy of the network on the 2772 test images: 18.722944 %
+[3,  2500] loss: 2.265
+Accuracy of the network on the 2772 test images: 46.753247 %
+[4,  2500] loss: 1.549
+Accuracy of the network on the 2772 test images: 56.060606 %
+[5,  2500] loss: 1.143
+Accuracy of the network on the 2772 test images: 62.445887 %
+[6,  2500] loss: 0.877
+Accuracy of the network on the 2772 test images: 59.992785 %
+[7,  2500] loss: 0.701
+Accuracy of the network on the 2772 test images: 66.089466 %
+[8,  2500] loss: 0.604
+Accuracy of the network on the 2772 test images: 57.720058 %
+[9,  2500] loss: 0.513
+Accuracy of the network on the 2772 test images: 62.662338 %
+[10,  2500] loss: 0.453
+Accuracy of the network on the 2772 test images: 67.027417 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  30
+[1,  2500] loss: 3.328
+Accuracy of the network on the 2772 test images: 6.926407 %
+[2,  2500] loss: 2.841
+Accuracy of the network on the 2772 test images: 27.056277 %
+[3,  2500] loss: 2.028
+Accuracy of the network on the 2772 test images: 44.011544 %
+[4,  2500] loss: 1.527
+Accuracy of the network on the 2772 test images: 50.144300 %
+[5,  2500] loss: 1.207
+Accuracy of the network on the 2772 test images: 52.813853 %
+[6,  2500] loss: 0.958
+Accuracy of the network on the 2772 test images: 60.281385 %
+[7,  2500] loss: 0.806
+Accuracy of the network on the 2772 test images: 62.987013 %
+[8,  2500] loss: 0.666
+Accuracy of the network on the 2772 test images: 63.239538 %
+[9,  2500] loss: 0.614
+Accuracy of the network on the 2772 test images: 63.528139 %
+[10,  2500] loss: 0.587
+Accuracy of the network on the 2772 test images: 63.600289 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  31
+[1,  2500] loss: 3.326
+Accuracy of the network on the 2772 test images: 8.008658 %
+[2,  2500] loss: 2.706
+Accuracy of the network on the 2772 test images: 34.956710 %
+[3,  2500] loss: 1.825
+Accuracy of the network on the 2772 test images: 49.891775 %
+[4,  2500] loss: 1.338
+Accuracy of the network on the 2772 test images: 58.838384 %
+[5,  2500] loss: 1.045
+Accuracy of the network on the 2772 test images: 61.940837 %
+[6,  2500] loss: 0.853
+Accuracy of the network on the 2772 test images: 65.836941 %
+[7,  2500] loss: 0.704
+Accuracy of the network on the 2772 test images: 61.580087 %
+[8,  2500] loss: 0.552
+Accuracy of the network on the 2772 test images: 64.935065 %
+[9,  2500] loss: 0.565
+Accuracy of the network on the 2772 test images: 61.832612 %
+[10,  2500] loss: 0.538
+Accuracy of the network on the 2772 test images: 63.672439 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  32
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 4.184704 %
+[2,  2500] loss: 2.994
+Accuracy of the network on the 2772 test images: 22.005772 %
+[3,  2500] loss: 2.191
+Accuracy of the network on the 2772 test images: 38.564214 %
+[4,  2500] loss: 1.575
+Accuracy of the network on the 2772 test images: 56.096681 %
+[5,  2500] loss: 1.205
+Accuracy of the network on the 2772 test images: 63.347763 %
+[6,  2500] loss: 0.931
+Accuracy of the network on the 2772 test images: 60.606061 %
+[7,  2500] loss: 0.706
+Accuracy of the network on the 2772 test images: 63.888889 %
+[8,  2500] loss: 0.565
+Accuracy of the network on the 2772 test images: 65.259740 %
+[9,  2500] loss: 0.524
+Accuracy of the network on the 2772 test images: 64.682540 %
+[10,  2500] loss: 0.458
+Accuracy of the network on the 2772 test images: 66.955267 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  33
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[3,  2500] loss: 3.275
+Accuracy of the network on the 2772 test images: 11.580087 %
+[4,  2500] loss: 2.612
+Accuracy of the network on the 2772 test images: 34.632035 %
+[5,  2500] loss: 1.902
+Accuracy of the network on the 2772 test images: 50.216450 %
+[6,  2500] loss: 1.396
+Accuracy of the network on the 2772 test images: 58.297258 %
+[7,  2500] loss: 1.084
+Accuracy of the network on the 2772 test images: 60.786436 %
+[8,  2500] loss: 0.845
+Accuracy of the network on the 2772 test images: 63.275613 %
+[9,  2500] loss: 0.709
+Accuracy of the network on the 2772 test images: 60.750361 %
+[10,  2500] loss: 0.582
+Accuracy of the network on the 2772 test images: 65.331890 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  34
+[1,  2500] loss: 3.327
+Accuracy of the network on the 2772 test images: 6.529582 %
+[2,  2500] loss: 2.774
+Accuracy of the network on the 2772 test images: 30.519481 %
+[3,  2500] loss: 1.933
+Accuracy of the network on the 2772 test images: 51.479076 %
+[4,  2500] loss: 1.424
+Accuracy of the network on the 2772 test images: 58.802309 %
+[5,  2500] loss: 1.137
+Accuracy of the network on the 2772 test images: 56.565657 %
+[6,  2500] loss: 0.919
+Accuracy of the network on the 2772 test images: 57.431457 %
+[7,  2500] loss: 0.755
+Accuracy of the network on the 2772 test images: 61.038961 %
+[8,  2500] loss: 0.635
+Accuracy of the network on the 2772 test images: 59.523810 %
+[9,  2500] loss: 0.588
+Accuracy of the network on the 2772 test images: 62.301587 %
+[10,  2500] loss: 0.469
+Accuracy of the network on the 2772 test images: 60.281385 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  35
+[1,  2500] loss: 3.314
+Accuracy of the network on the 2772 test images: 9.632035 %
+[2,  2500] loss: 2.752
+Accuracy of the network on the 2772 test images: 31.493506 %
+[3,  2500] loss: 1.995
+Accuracy of the network on the 2772 test images: 48.629149 %
+[4,  2500] loss: 1.477
+Accuracy of the network on the 2772 test images: 55.050505 %
+[5,  2500] loss: 1.159
+Accuracy of the network on the 2772 test images: 60.101010 %
+[6,  2500] loss: 0.941
+Accuracy of the network on the 2772 test images: 62.987013 %
+[7,  2500] loss: 0.736
+Accuracy of the network on the 2772 test images: 64.213564 %
+[8,  2500] loss: 0.666
+Accuracy of the network on the 2772 test images: 62.770563 %
+[9,  2500] loss: 0.610
+Accuracy of the network on the 2772 test images: 63.852814 %
+[10,  2500] loss: 0.589
+Accuracy of the network on the 2772 test images: 66.017316 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  36
+[1,  2500] loss: 3.275
+Accuracy of the network on the 2772 test images: 15.440115 %
+[2,  2500] loss: 2.610
+Accuracy of the network on the 2772 test images: 26.695527 %
+[3,  2500] loss: 1.862
+Accuracy of the network on the 2772 test images: 45.995671 %
+[4,  2500] loss: 1.402
+Accuracy of the network on the 2772 test images: 54.473304 %
+[5,  2500] loss: 1.124
+Accuracy of the network on the 2772 test images: 60.353535 %
+[6,  2500] loss: 0.882
+Accuracy of the network on the 2772 test images: 56.962482 %
+[7,  2500] loss: 0.747
+Accuracy of the network on the 2772 test images: 61.652237 %
+[8,  2500] loss: 0.672
+Accuracy of the network on the 2772 test images: 60.533911 %
+[9,  2500] loss: 0.570
+Accuracy of the network on the 2772 test images: 61.760462 %
+[10,  2500] loss: 0.578
+Accuracy of the network on the 2772 test images: 62.590188 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  37
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[3,  2500] loss: 3.248
+Accuracy of the network on the 2772 test images: 18.326118 %
+[4,  2500] loss: 2.397
+Accuracy of the network on the 2772 test images: 40.584416 %
+[5,  2500] loss: 1.657
+Accuracy of the network on the 2772 test images: 52.380952 %
+[6,  2500] loss: 1.264
+Accuracy of the network on the 2772 test images: 59.126984 %
+[7,  2500] loss: 0.973
+Accuracy of the network on the 2772 test images: 64.646465 %
+[8,  2500] loss: 0.781
+Accuracy of the network on the 2772 test images: 60.930736 %
+[9,  2500] loss: 0.655
+Accuracy of the network on the 2772 test images: 59.235209 %
+[10,  2500] loss: 0.583
+Accuracy of the network on the 2772 test images: 65.548341 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  38
+[1,  2500] loss: 3.328
+Accuracy of the network on the 2772 test images: 6.746032 %
+[2,  2500] loss: 2.933
+Accuracy of the network on the 2772 test images: 24.134199 %
+[3,  2500] loss: 2.160
+Accuracy of the network on the 2772 test images: 43.290043 %
+[4,  2500] loss: 1.664
+Accuracy of the network on the 2772 test images: 53.318903 %
+[5,  2500] loss: 1.344
+Accuracy of the network on the 2772 test images: 56.782107 %
+[6,  2500] loss: 1.070
+Accuracy of the network on the 2772 test images: 61.038961 %
+[7,  2500] loss: 0.911
+Accuracy of the network on the 2772 test images: 47.294372 %
+[8,  2500] loss: 1.072
+Accuracy of the network on the 2772 test images: 59.090909 %
+[9,  2500] loss: 0.782
+Accuracy of the network on the 2772 test images: 60.786436 %
+[10,  2500] loss: 0.691
+Accuracy of the network on the 2772 test images: 62.518038 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  39
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.643579 %
+[2,  2500] loss: 3.025
+Accuracy of the network on the 2772 test images: 25.000000 %
+[3,  2500] loss: 2.236
+Accuracy of the network on the 2772 test images: 41.919192 %
+[4,  2500] loss: 1.626
+Accuracy of the network on the 2772 test images: 54.761905 %
+[5,  2500] loss: 1.274
+Accuracy of the network on the 2772 test images: 54.761905 %
+[6,  2500] loss: 1.009
+Accuracy of the network on the 2772 test images: 63.744589 %
+[7,  2500] loss: 0.864
+Accuracy of the network on the 2772 test images: 62.987013 %
+[8,  2500] loss: 0.721
+Accuracy of the network on the 2772 test images: 57.395382 %
+[9,  2500] loss: 0.619
+Accuracy of the network on the 2772 test images: 60.966811 %
+[10,  2500] loss: 0.550
+Accuracy of the network on the 2772 test images: 58.116883 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  20
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 7.359307 %
+[2,  2500] loss: 3.007
+Accuracy of the network on the 2772 test images: 25.216450 %
+[3,  2500] loss: 2.141
+Accuracy of the network on the 2772 test images: 47.546898 %
+[4,  2500] loss: 1.535
+Accuracy of the network on the 2772 test images: 56.204906 %
+[5,  2500] loss: 1.157
+Accuracy of the network on the 2772 test images: 60.786436 %
+[6,  2500] loss: 0.942
+Accuracy of the network on the 2772 test images: 62.590188 %
+[7,  2500] loss: 0.728
+Accuracy of the network on the 2772 test images: 63.672439 %
+[8,  2500] loss: 0.618
+Accuracy of the network on the 2772 test images: 62.229437 %
+[9,  2500] loss: 0.697
+Accuracy of the network on the 2772 test images: 60.425685 %
+[10,  2500] loss: 0.477
+Accuracy of the network on the 2772 test images: 62.229437 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  21
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 3.607504 %
+[2,  2500] loss: 2.964
+Accuracy of the network on the 2772 test images: 25.865801 %
+[3,  2500] loss: 2.064
+Accuracy of the network on the 2772 test images: 42.640693 %
+[4,  2500] loss: 1.477
+Accuracy of the network on the 2772 test images: 58.946609 %
+[5,  2500] loss: 1.142
+Accuracy of the network on the 2772 test images: 63.924964 %
+[6,  2500] loss: 0.895
+Accuracy of the network on the 2772 test images: 65.476190 %
+[7,  2500] loss: 0.729
+Accuracy of the network on the 2772 test images: 62.085137 %
+[8,  2500] loss: 0.665
+Accuracy of the network on the 2772 test images: 65.043290 %
+[9,  2500] loss: 0.543
+Accuracy of the network on the 2772 test images: 60.389610 %
+[10,  2500] loss: 0.506
+Accuracy of the network on the 2772 test images: 67.460317 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  22
+[1,  2500] loss: 3.302
+Accuracy of the network on the 2772 test images: 15.043290 %
+[2,  2500] loss: 2.694
+Accuracy of the network on the 2772 test images: 33.080808 %
+[3,  2500] loss: 1.925
+Accuracy of the network on the 2772 test images: 47.943723 %
+[4,  2500] loss: 1.437
+Accuracy of the network on the 2772 test images: 57.900433 %
+[5,  2500] loss: 1.130
+Accuracy of the network on the 2772 test images: 60.317460 %
+[6,  2500] loss: 0.905
+Accuracy of the network on the 2772 test images: 63.961039 %
+[7,  2500] loss: 0.748
+Accuracy of the network on the 2772 test images: 61.507937 %
+[8,  2500] loss: 0.664
+Accuracy of the network on the 2772 test images: 64.430014 %
+[9,  2500] loss: 0.569
+Accuracy of the network on the 2772 test images: 62.914863 %
+[10,  2500] loss: 0.571
+Accuracy of the network on the 2772 test images: 59.487734 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  23
+[1,  2500] loss: 3.313
+Accuracy of the network on the 2772 test images: 10.101010 %
+[2,  2500] loss: 2.775
+Accuracy of the network on the 2772 test images: 33.116883 %
+[3,  2500] loss: 1.946
+Accuracy of the network on the 2772 test images: 42.027417 %
+[4,  2500] loss: 1.446
+Accuracy of the network on the 2772 test images: 54.220779 %
+[5,  2500] loss: 1.114
+Accuracy of the network on the 2772 test images: 61.940837 %
+[6,  2500] loss: 0.885
+Accuracy of the network on the 2772 test images: 64.105339 %
+[7,  2500] loss: 0.706
+Accuracy of the network on the 2772 test images: 61.507937 %
+[8,  2500] loss: 0.595
+Accuracy of the network on the 2772 test images: 63.455988 %
+[9,  2500] loss: 0.519
+Accuracy of the network on the 2772 test images: 64.826840 %
+[10,  2500] loss: 0.505
+Accuracy of the network on the 2772 test images: 64.177489 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  24
+[1,  2500] loss: 3.327
+Accuracy of the network on the 2772 test images: 4.509380 %
+[2,  2500] loss: 2.929
+Accuracy of the network on the 2772 test images: 27.922078 %
+[3,  2500] loss: 2.093
+Accuracy of the network on the 2772 test images: 44.985570 %
+[4,  2500] loss: 1.573
+Accuracy of the network on the 2772 test images: 52.886003 %
+[5,  2500] loss: 1.264
+Accuracy of the network on the 2772 test images: 58.694084 %
+[6,  2500] loss: 1.029
+Accuracy of the network on the 2772 test images: 57.539683 %
+[7,  2500] loss: 0.870
+Accuracy of the network on the 2772 test images: 60.533911 %
+[8,  2500] loss: 0.710
+Accuracy of the network on the 2772 test images: 58.297258 %
+[9,  2500] loss: 0.675
+Accuracy of the network on the 2772 test images: 53.282828 %
+[10,  2500] loss: 0.611
+Accuracy of the network on the 2772 test images: 61.075036 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  25
+[1,  2500] loss: 3.302
+Accuracy of the network on the 2772 test images: 12.012987 %
+[2,  2500] loss: 2.642
+Accuracy of the network on the 2772 test images: 36.075036 %
+[3,  2500] loss: 1.855
+Accuracy of the network on the 2772 test images: 48.953824 %
+[4,  2500] loss: 1.373
+Accuracy of the network on the 2772 test images: 56.673882 %
+[5,  2500] loss: 1.066
+Accuracy of the network on the 2772 test images: 61.291486 %
+[6,  2500] loss: 0.838
+Accuracy of the network on the 2772 test images: 63.095238 %
+[7,  2500] loss: 0.689
+Accuracy of the network on the 2772 test images: 62.698413 %
+[8,  2500] loss: 0.572
+Accuracy of the network on the 2772 test images: 65.476190 %
+[9,  2500] loss: 0.507
+Accuracy of the network on the 2772 test images: 64.718615 %
+[10,  2500] loss: 0.449
+Accuracy of the network on the 2772 test images: 63.564214 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  26
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.643579 %
+[2,  2500] loss: 3.243
+Accuracy of the network on the 2772 test images: 18.109668 %
+[3,  2500] loss: 2.478
+Accuracy of the network on the 2772 test images: 37.806638 %
+[4,  2500] loss: 1.806
+Accuracy of the network on the 2772 test images: 50.144300 %
+[5,  2500] loss: 1.416
+Accuracy of the network on the 2772 test images: 56.998557 %
+[6,  2500] loss: 1.136
+Accuracy of the network on the 2772 test images: 59.776335 %
+[7,  2500] loss: 0.938
+Accuracy of the network on the 2772 test images: 61.616162 %
+[8,  2500] loss: 0.762
+Accuracy of the network on the 2772 test images: 62.301587 %
+[9,  2500] loss: 0.628
+Accuracy of the network on the 2772 test images: 61.940837 %
+[10,  2500] loss: 0.510
+Accuracy of the network on the 2772 test images: 63.095238 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  27
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 5.411255 %
+[2,  2500] loss: 3.329
+Accuracy of the network on the 2772 test images: 9.199134 %
+[3,  2500] loss: 2.832
+Accuracy of the network on the 2772 test images: 27.236652 %
+[4,  2500] loss: 2.017
+Accuracy of the network on the 2772 test images: 47.979798 %
+[5,  2500] loss: 1.413
+Accuracy of the network on the 2772 test images: 59.126984 %
+[6,  2500] loss: 1.041
+Accuracy of the network on the 2772 test images: 56.240981 %
+[7,  2500] loss: 0.813
+Accuracy of the network on the 2772 test images: 66.738817 %
+[8,  2500] loss: 0.658
+Accuracy of the network on the 2772 test images: 65.079365 %
+[9,  2500] loss: 0.541
+Accuracy of the network on the 2772 test images: 67.171717 %
+[10,  2500] loss: 0.517
+Accuracy of the network on the 2772 test images: 64.105339 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  28
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 5.699856 %
+[2,  2500] loss: 3.019
+Accuracy of the network on the 2772 test images: 20.490620 %
+[3,  2500] loss: 2.206
+Accuracy of the network on the 2772 test images: 42.388167 %
+[4,  2500] loss: 1.601
+Accuracy of the network on the 2772 test images: 55.519481 %
+[5,  2500] loss: 1.189
+Accuracy of the network on the 2772 test images: 61.976912 %
+[6,  2500] loss: 0.912
+Accuracy of the network on the 2772 test images: 61.724387 %
+[7,  2500] loss: 0.726
+Accuracy of the network on the 2772 test images: 66.197691 %
+[8,  2500] loss: 0.610
+Accuracy of the network on the 2772 test images: 65.945166 %
+[9,  2500] loss: 0.558
+Accuracy of the network on the 2772 test images: 62.012987 %
+[10,  2500] loss: 0.484
+Accuracy of the network on the 2772 test images: 65.404040 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  29
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 4.797980 %
+[2,  2500] loss: 2.990
+Accuracy of the network on the 2772 test images: 23.196248 %
+[3,  2500] loss: 2.275
+Accuracy of the network on the 2772 test images: 39.249639 %
+[4,  2500] loss: 1.659
+Accuracy of the network on the 2772 test images: 54.112554 %
+[5,  2500] loss: 1.321
+Accuracy of the network on the 2772 test images: 51.298701 %
+[6,  2500] loss: 1.053
+Accuracy of the network on the 2772 test images: 63.095238 %
+[7,  2500] loss: 0.883
+Accuracy of the network on the 2772 test images: 59.992785 %
+[8,  2500] loss: 0.759
+Accuracy of the network on the 2772 test images: 58.008658 %
+[9,  2500] loss: 0.734
+Accuracy of the network on the 2772 test images: 62.518038 %
+[10,  2500] loss: 0.580
+Accuracy of the network on the 2772 test images: 61.471861 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  30
+[1,  2500] loss: 3.317
+Accuracy of the network on the 2772 test images: 10.497835 %
+[2,  2500] loss: 2.778
+Accuracy of the network on the 2772 test images: 30.916306 %
+[3,  2500] loss: 1.984
+Accuracy of the network on the 2772 test images: 49.531025 %
+[4,  2500] loss: 1.467
+Accuracy of the network on the 2772 test images: 52.813853 %
+[5,  2500] loss: 1.179
+Accuracy of the network on the 2772 test images: 57.936508 %
+[6,  2500] loss: 0.959
+Accuracy of the network on the 2772 test images: 61.868687 %
+[7,  2500] loss: 0.779
+Accuracy of the network on the 2772 test images: 59.956710 %
+[8,  2500] loss: 0.684
+Accuracy of the network on the 2772 test images: 55.808081 %
+[9,  2500] loss: 0.592
+Accuracy of the network on the 2772 test images: 64.754690 %
+[10,  2500] loss: 0.579
+Accuracy of the network on the 2772 test images: 54.112554 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  31
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.076
+Accuracy of the network on the 2772 test images: 16.919192 %
+[3,  2500] loss: 2.328
+Accuracy of the network on the 2772 test images: 38.059163 %
+[4,  2500] loss: 1.659
+Accuracy of the network on the 2772 test images: 56.854257 %
+[5,  2500] loss: 1.263
+Accuracy of the network on the 2772 test images: 59.812410 %
+[6,  2500] loss: 0.982
+Accuracy of the network on the 2772 test images: 59.595960 %
+[7,  2500] loss: 0.794
+Accuracy of the network on the 2772 test images: 64.393939 %
+[8,  2500] loss: 0.657
+Accuracy of the network on the 2772 test images: 63.203463 %
+[9,  2500] loss: 0.582
+Accuracy of the network on the 2772 test images: 63.636364 %
+[10,  2500] loss: 0.505
+Accuracy of the network on the 2772 test images: 63.455988 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  32
+[1,  2500] loss: 3.328
+Accuracy of the network on the 2772 test images: 10.137085 %
+[2,  2500] loss: 2.873
+Accuracy of the network on the 2772 test images: 26.695527 %
+[3,  2500] loss: 2.109
+Accuracy of the network on the 2772 test images: 42.316017 %
+[4,  2500] loss: 1.643
+Accuracy of the network on the 2772 test images: 51.515152 %
+[5,  2500] loss: 1.391
+Accuracy of the network on the 2772 test images: 50.937951 %
+[6,  2500] loss: 1.137
+Accuracy of the network on the 2772 test images: 55.050505 %
+[7,  2500] loss: 1.004
+Accuracy of the network on the 2772 test images: 58.477633 %
+[8,  2500] loss: 0.801
+Accuracy of the network on the 2772 test images: 57.215007 %
+[9,  2500] loss: 0.692
+Accuracy of the network on the 2772 test images: 60.606061 %
+[10,  2500] loss: 0.651
+Accuracy of the network on the 2772 test images: 64.502165 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  33
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 5.447330 %
+[2,  2500] loss: 2.955
+Accuracy of the network on the 2772 test images: 25.505051 %
+[3,  2500] loss: 2.073
+Accuracy of the network on the 2772 test images: 49.458874 %
+[4,  2500] loss: 1.454
+Accuracy of the network on the 2772 test images: 57.864358 %
+[5,  2500] loss: 1.096
+Accuracy of the network on the 2772 test images: 61.507937 %
+[6,  2500] loss: 0.867
+Accuracy of the network on the 2772 test images: 64.393939 %
+[7,  2500] loss: 0.668
+Accuracy of the network on the 2772 test images: 62.481962 %
+[8,  2500] loss: 0.581
+Accuracy of the network on the 2772 test images: 61.796537 %
+[9,  2500] loss: 0.533
+Accuracy of the network on the 2772 test images: 64.898990 %
+[10,  2500] loss: 0.478
+Accuracy of the network on the 2772 test images: 65.295815 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  34
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 4.761905 %
+[2,  2500] loss: 3.084
+Accuracy of the network on the 2772 test images: 15.728716 %
+[3,  2500] loss: 2.364
+Accuracy of the network on the 2772 test images: 36.147186 %
+[4,  2500] loss: 1.677
+Accuracy of the network on the 2772 test images: 54.509380 %
+[5,  2500] loss: 1.274
+Accuracy of the network on the 2772 test images: 58.730159 %
+[6,  2500] loss: 0.977
+Accuracy of the network on the 2772 test images: 60.425685 %
+[7,  2500] loss: 0.813
+Accuracy of the network on the 2772 test images: 63.780664 %
+[8,  2500] loss: 0.635
+Accuracy of the network on the 2772 test images: 62.914863 %
+[9,  2500] loss: 0.545
+Accuracy of the network on the 2772 test images: 65.079365 %
+[10,  2500] loss: 0.472
+Accuracy of the network on the 2772 test images: 62.229437 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  35
+[1,  2500] loss: 3.323
+Accuracy of the network on the 2772 test images: 6.457431 %
+[2,  2500] loss: 2.761
+Accuracy of the network on the 2772 test images: 38.059163 %
+[3,  2500] loss: 1.980
+Accuracy of the network on the 2772 test images: 47.582973 %
+[4,  2500] loss: 1.502
+Accuracy of the network on the 2772 test images: 55.411255 %
+[5,  2500] loss: 1.207
+Accuracy of the network on the 2772 test images: 59.090909 %
+[6,  2500] loss: 1.003
+Accuracy of the network on the 2772 test images: 58.405483 %
+[7,  2500] loss: 0.828
+Accuracy of the network on the 2772 test images: 62.265512 %
+[8,  2500] loss: 0.698
+Accuracy of the network on the 2772 test images: 62.445887 %
+[9,  2500] loss: 0.669
+Accuracy of the network on the 2772 test images: 61.363636 %
+[10,  2500] loss: 0.632
+Accuracy of the network on the 2772 test images: 58.297258 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  36
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.860029 %
+[2,  2500] loss: 3.271
+Accuracy of the network on the 2772 test images: 15.187590 %
+[3,  2500] loss: 2.600
+Accuracy of the network on the 2772 test images: 33.946609 %
+[4,  2500] loss: 1.846
+Accuracy of the network on the 2772 test images: 52.561328 %
+[5,  2500] loss: 1.325
+Accuracy of the network on the 2772 test images: 59.451659 %
+[6,  2500] loss: 1.008
+Accuracy of the network on the 2772 test images: 60.461760 %
+[7,  2500] loss: 0.811
+Accuracy of the network on the 2772 test images: 60.497835 %
+[8,  2500] loss: 0.694
+Accuracy of the network on the 2772 test images: 65.512266 %
+[9,  2500] loss: 0.541
+Accuracy of the network on the 2772 test images: 65.656566 %
+[10,  2500] loss: 0.479
+Accuracy of the network on the 2772 test images: 57.792208 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  37
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.076
+Accuracy of the network on the 2772 test images: 19.552670 %
+[3,  2500] loss: 2.255
+Accuracy of the network on the 2772 test images: 41.486291 %
+[4,  2500] loss: 1.661
+Accuracy of the network on the 2772 test images: 49.855700 %
+[5,  2500] loss: 1.299
+Accuracy of the network on the 2772 test images: 58.477633 %
+[6,  2500] loss: 1.042
+Accuracy of the network on the 2772 test images: 62.049062 %
+[7,  2500] loss: 0.842
+Accuracy of the network on the 2772 test images: 63.203463 %
+[8,  2500] loss: 0.667
+Accuracy of the network on the 2772 test images: 62.409812 %
+[9,  2500] loss: 0.572
+Accuracy of the network on the 2772 test images: 62.445887 %
+[10,  2500] loss: 0.567
+Accuracy of the network on the 2772 test images: 63.961039 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  38
+[1,  2500] loss: 3.322
+Accuracy of the network on the 2772 test images: 6.998557 %
+[2,  2500] loss: 2.826
+Accuracy of the network on the 2772 test images: 29.292929 %
+[3,  2500] loss: 2.027
+Accuracy of the network on the 2772 test images: 49.711400 %
+[4,  2500] loss: 1.438
+Accuracy of the network on the 2772 test images: 53.896104 %
+[5,  2500] loss: 1.144
+Accuracy of the network on the 2772 test images: 60.353535 %
+[6,  2500] loss: 0.868
+Accuracy of the network on the 2772 test images: 60.353535 %
+[7,  2500] loss: 0.748
+Accuracy of the network on the 2772 test images: 63.455988 %
+[8,  2500] loss: 0.649
+Accuracy of the network on the 2772 test images: 61.507937 %
+[9,  2500] loss: 0.562
+Accuracy of the network on the 2772 test images: 66.125541 %
+[10,  2500] loss: 0.545
+Accuracy of the network on the 2772 test images: 61.976912 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  39
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.331
+Accuracy of the network on the 2772 test images: 5.483405 %
+[3,  2500] loss: 3.017
+Accuracy of the network on the 2772 test images: 17.712843 %
+[4,  2500] loss: 2.203
+Accuracy of the network on the 2772 test images: 41.341991 %
+[5,  2500] loss: 1.564
+Accuracy of the network on the 2772 test images: 54.761905 %
+Accuracy of the network on the 2772 test images: 32.972583 %
+[4,  2500] loss: 1.901
+Accuracy of the network on the 2772 test images: 48.845599 %
+[5,  2500] loss: 1.389
+Accuracy of the network on the 2772 test images: 57.647908 %
+[6,  2500] loss: 1.082
+Accuracy of the network on the 2772 test images: 63.600289 %
+[7,  2500] loss: 0.853
+Accuracy of the network on the 2772 test images: 60.930736 %
+[8,  2500] loss: 0.718
+Accuracy of the network on the 2772 test images: 64.249639 %
+[9,  2500] loss: 0.561
+Accuracy of the network on the 2772 test images: 64.790765 %
+[10,  2500] loss: 0.568
+Accuracy of the network on the 2772 test images: 60.317460 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  21
+[1,  2500] loss: 3.330
+Accuracy of the network on the 2772 test images: 6.457431 %
+[2,  2500] loss: 2.983
+Accuracy of the network on the 2772 test images: 24.639250 %
+[3,  2500] loss: 2.187
+Accuracy of the network on the 2772 test images: 44.913420 %
+[4,  2500] loss: 1.707
+Accuracy of the network on the 2772 test images: 51.190476 %
+[5,  2500] loss: 1.378
+Accuracy of the network on the 2772 test images: 56.204906 %
+[6,  2500] loss: 1.151
+Accuracy of the network on the 2772 test images: 57.106782 %
+[7,  2500] loss: 0.956
+Accuracy of the network on the 2772 test images: 58.694084 %
+[8,  2500] loss: 0.849
+Accuracy of the network on the 2772 test images: 62.950938 %
+[9,  2500] loss: 0.684
+Accuracy of the network on the 2772 test images: 62.734488 %
+[10,  2500] loss: 0.685
+Accuracy of the network on the 2772 test images: 59.812410 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  22
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.787879 %
+[2,  2500] loss: 3.067
+Accuracy of the network on the 2772 test images: 23.268398 %
+[3,  2500] loss: 2.224
+Accuracy of the network on the 2772 test images: 43.326118 %
+[4,  2500] loss: 1.611
+Accuracy of the network on the 2772 test images: 53.860029 %
+[5,  2500] loss: 1.225
+Accuracy of the network on the 2772 test images: 55.627706 %
+[6,  2500] loss: 0.999
+Accuracy of the network on the 2772 test images: 63.383838 %
+[7,  2500] loss: 0.790
+Accuracy of the network on the 2772 test images: 64.069264 %
+[8,  2500] loss: 0.669
+Accuracy of the network on the 2772 test images: 63.023088 %
+[9,  2500] loss: 0.668
+Accuracy of the network on the 2772 test images: 60.822511 %
+[10,  2500] loss: 0.603
+Accuracy of the network on the 2772 test images: 60.101010 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  23
+[1,  2500] loss: 3.331
+Accuracy of the network on the 2772 test images: 6.349206 %
+[2,  2500] loss: 2.939
+Accuracy of the network on the 2772 test images: 28.354978 %
+[3,  2500] loss: 2.136
+Accuracy of the network on the 2772 test images: 42.027417 %
+[4,  2500] loss: 1.604
+Accuracy of the network on the 2772 test images: 54.220779 %
+[5,  2500] loss: 1.253
+Accuracy of the network on the 2772 test images: 61.075036 %
+[6,  2500] loss: 1.040
+Accuracy of the network on the 2772 test images: 60.894661 %
+[7,  2500] loss: 0.878
+Accuracy of the network on the 2772 test images: 62.626263 %
+[8,  2500] loss: 0.745
+Accuracy of the network on the 2772 test images: 62.806638 %
+[9,  2500] loss: 0.646
+Accuracy of the network on the 2772 test images: 61.940837 %
+[10,  2500] loss: 0.621
+Accuracy of the network on the 2772 test images: 63.311688 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  24
+[1,  2500] loss: 3.330
+Accuracy of the network on the 2772 test images: 8.874459 %
+[2,  2500] loss: 2.890
+Accuracy of the network on the 2772 test images: 27.597403 %
+[3,  2500] loss: 2.021
+Accuracy of the network on the 2772 test images: 41.017316 %
+[4,  2500] loss: 1.480
+Accuracy of the network on the 2772 test images: 55.699856 %
+[5,  2500] loss: 1.184
+Accuracy of the network on the 2772 test images: 58.982684 %
+[6,  2500] loss: 0.902
+Accuracy of the network on the 2772 test images: 61.580087 %
+[7,  2500] loss: 0.735
+Accuracy of the network on the 2772 test images: 60.858586 %
+[8,  2500] loss: 0.652
+Accuracy of the network on the 2772 test images: 61.544012 %
+[9,  2500] loss: 0.628
+Accuracy of the network on the 2772 test images: 64.790765 %
+[10,  2500] loss: 0.501
+Accuracy of the network on the 2772 test images: 65.476190 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  25
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.241
+Accuracy of the network on the 2772 test images: 17.027417 %
+[3,  2500] loss: 2.513
+Accuracy of the network on the 2772 test images: 38.419913 %
+[4,  2500] loss: 1.810
+Accuracy of the network on the 2772 test images: 51.370851 %
+[5,  2500] loss: 1.274
+Accuracy of the network on the 2772 test images: 59.812410 %
+[6,  2500] loss: 0.974
+Accuracy of the network on the 2772 test images: 63.059163 %
+[7,  2500] loss: 0.753
+Accuracy of the network on the 2772 test images: 65.584416 %
+[8,  2500] loss: 0.611
+Accuracy of the network on the 2772 test images: 61.832612 %
+[9,  2500] loss: 0.513
+Accuracy of the network on the 2772 test images: 66.089466 %
+[10,  2500] loss: 0.453
+Accuracy of the network on the 2772 test images: 60.137085 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  26
+[1,  2500] loss: 3.322
+Accuracy of the network on the 2772 test images: 9.054834 %
+[2,  2500] loss: 2.804
+Accuracy of the network on the 2772 test images: 28.427128 %
+[3,  2500] loss: 2.036
+Accuracy of the network on the 2772 test images: 46.536797 %
+[4,  2500] loss: 1.523
+Accuracy of the network on the 2772 test images: 57.503608 %
+[5,  2500] loss: 1.166
+Accuracy of the network on the 2772 test images: 59.379509 %
+[6,  2500] loss: 0.905
+Accuracy of the network on the 2772 test images: 63.167388 %
+[7,  2500] loss: 0.748
+Accuracy of the network on the 2772 test images: 61.940837 %
+[8,  2500] loss: 0.667
+Accuracy of the network on the 2772 test images: 62.770563 %
+[9,  2500] loss: 0.582
+Accuracy of the network on the 2772 test images: 54.220779 %
+[10,  2500] loss: 0.498
+Accuracy of the network on the 2772 test images: 65.115440 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  27
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.607504 %
+[2,  2500] loss: 2.946
+Accuracy of the network on the 2772 test images: 22.186147 %
+[3,  2500] loss: 2.161
+Accuracy of the network on the 2772 test images: 33.838384 %
+[4,  2500] loss: 1.583
+Accuracy of the network on the 2772 test images: 57.828283 %
+[5,  2500] loss: 1.212
+Accuracy of the network on the 2772 test images: 59.523810 %
+[6,  2500] loss: 0.974
+Accuracy of the network on the 2772 test images: 59.523810 %
+[7,  2500] loss: 0.764
+Accuracy of the network on the 2772 test images: 63.239538 %
+[8,  2500] loss: 0.638
+Accuracy of the network on the 2772 test images: 67.352092 %
+[9,  2500] loss: 0.542
+Accuracy of the network on the 2772 test images: 63.347763 %
+[10,  2500] loss: 0.633
+Accuracy of the network on the 2772 test images: 50.216450 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  28
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 4.184704 %
+[3,  2500] loss: 3.083
+Accuracy of the network on the 2772 test images: 22.943723 %
+[4,  2500] loss: 2.214
+Accuracy of the network on the 2772 test images: 44.552670 %
+[5,  2500] loss: 1.581
+Accuracy of the network on the 2772 test images: 55.591631 %
+[6,  2500] loss: 1.237
+Accuracy of the network on the 2772 test images: 61.616162 %
+[7,  2500] loss: 1.002
+Accuracy of the network on the 2772 test images: 64.574315 %
+[8,  2500] loss: 0.817
+Accuracy of the network on the 2772 test images: 64.321789 %
+[9,  2500] loss: 0.721
+Accuracy of the network on the 2772 test images: 64.285714 %
+[10,  2500] loss: 0.597
+Accuracy of the network on the 2772 test images: 60.137085 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  29
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 4.906205 %
+[2,  2500] loss: 3.099
+Accuracy of the network on the 2772 test images: 18.722944 %
+[3,  2500] loss: 2.265
+Accuracy of the network on the 2772 test images: 46.753247 %
+[4,  2500] loss: 1.549
+Accuracy of the network on the 2772 test images: 56.060606 %
+[5,  2500] loss: 1.143
+Accuracy of the network on the 2772 test images: 62.445887 %
+[6,  2500] loss: 0.877
+Accuracy of the network on the 2772 test images: 59.992785 %
+[7,  2500] loss: 0.701
+Accuracy of the network on the 2772 test images: 66.089466 %
+[8,  2500] loss: 0.604
+Accuracy of the network on the 2772 test images: 57.720058 %
+[9,  2500] loss: 0.513
+Accuracy of the network on the 2772 test images: 62.662338 %
+[10,  2500] loss: 0.453
+Accuracy of the network on the 2772 test images: 67.027417 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  30
+[1,  2500] loss: 3.328
+Accuracy of the network on the 2772 test images: 6.926407 %
+[2,  2500] loss: 2.841
+Accuracy of the network on the 2772 test images: 27.056277 %
+[3,  2500] loss: 2.028
+Accuracy of the network on the 2772 test images: 44.011544 %
+[4,  2500] loss: 1.527
+Accuracy of the network on the 2772 test images: 50.144300 %
+[5,  2500] loss: 1.207
+Accuracy of the network on the 2772 test images: 52.813853 %
+[6,  2500] loss: 0.958
+Accuracy of the network on the 2772 test images: 60.281385 %
+[7,  2500] loss: 0.806
+Accuracy of the network on the 2772 test images: 62.987013 %
+[8,  2500] loss: 0.666
+Accuracy of the network on the 2772 test images: 63.239538 %
+[9,  2500] loss: 0.614
+Accuracy of the network on the 2772 test images: 63.528139 %
+[10,  2500] loss: 0.587
+Accuracy of the network on the 2772 test images: 63.600289 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  31
+[1,  2500] loss: 3.326
+Accuracy of the network on the 2772 test images: 8.008658 %
+[2,  2500] loss: 2.706
+Accuracy of the network on the 2772 test images: 34.956710 %
+[3,  2500] loss: 1.825
+Accuracy of the network on the 2772 test images: 49.891775 %
+[4,  2500] loss: 1.338
+Accuracy of the network on the 2772 test images: 58.838384 %
+[5,  2500] loss: 1.045
+Accuracy of the network on the 2772 test images: 61.940837 %
+[6,  2500] loss: 0.853
+Accuracy of the network on the 2772 test images: 65.836941 %
+[7,  2500] loss: 0.704
+Accuracy of the network on the 2772 test images: 61.580087 %
+[8,  2500] loss: 0.552
+Accuracy of the network on the 2772 test images: 64.935065 %
+[9,  2500] loss: 0.565
+Accuracy of the network on the 2772 test images: 61.832612 %
+[10,  2500] loss: 0.538
+Accuracy of the network on the 2772 test images: 63.672439 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  32
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 4.184704 %
+[2,  2500] loss: 2.994
+Accuracy of the network on the 2772 test images: 22.005772 %
+[3,  2500] loss: 2.191
+Accuracy of the network on the 2772 test images: 38.564214 %
+[4,  2500] loss: 1.575
+Accuracy of the network on the 2772 test images: 56.096681 %
+[5,  2500] loss: 1.205
+Accuracy of the network on the 2772 test images: 63.347763 %
+[6,  2500] loss: 0.931
+Accuracy of the network on the 2772 test images: 60.606061 %
+[7,  2500] loss: 0.706
+Accuracy of the network on the 2772 test images: 63.888889 %
+[8,  2500] loss: 0.565
+Accuracy of the network on the 2772 test images: 65.259740 %
+[9,  2500] loss: 0.524
+Accuracy of the network on the 2772 test images: 64.682540 %
+[10,  2500] loss: 0.458
+Accuracy of the network on the 2772 test images: 66.955267 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  33
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[3,  2500] loss: 3.275
+Accuracy of the network on the 2772 test images: 11.580087 %
+[4,  2500] loss: 2.612
+Accuracy of the network on the 2772 test images: 34.632035 %
+[5,  2500] loss: 1.902
+Accuracy of the network on the 2772 test images: 50.216450 %
+[6,  2500] loss: 1.396
+Accuracy of the network on the 2772 test images: 58.297258 %
+[7,  2500] loss: 1.084
+Accuracy of the network on the 2772 test images: 60.786436 %
+[8,  2500] loss: 0.845
+Accuracy of the network on the 2772 test images: 63.275613 %
+[9,  2500] loss: 0.709
+Accuracy of the network on the 2772 test images: 60.750361 %
+[10,  2500] loss: 0.582
+Accuracy of the network on the 2772 test images: 65.331890 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  34
+[1,  2500] loss: 3.327
+Accuracy of the network on the 2772 test images: 6.529582 %
+[2,  2500] loss: 2.774
+Accuracy of the network on the 2772 test images: 30.519481 %
+[3,  2500] loss: 1.933
+Accuracy of the network on the 2772 test images: 51.479076 %
+[4,  2500] loss: 1.424
+Accuracy of the network on the 2772 test images: 58.802309 %
+[5,  2500] loss: 1.137
+Accuracy of the network on the 2772 test images: 56.565657 %
+[6,  2500] loss: 0.919
+Accuracy of the network on the 2772 test images: 57.431457 %
+[7,  2500] loss: 0.755
+Accuracy of the network on the 2772 test images: 61.038961 %
+[8,  2500] loss: 0.635
+Accuracy of the network on the 2772 test images: 59.523810 %
+[9,  2500] loss: 0.588
+Accuracy of the network on the 2772 test images: 62.301587 %
+[10,  2500] loss: 0.469
+Accuracy of the network on the 2772 test images: 60.281385 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  35
+[1,  2500] loss: 3.314
+Accuracy of the network on the 2772 test images: 9.632035 %
+[2,  2500] loss: 2.752
+Accuracy of the network on the 2772 test images: 31.493506 %
+[3,  2500] loss: 1.995
+Accuracy of the network on the 2772 test images: 48.629149 %
+[4,  2500] loss: 1.477
+Accuracy of the network on the 2772 test images: 55.050505 %
+[5,  2500] loss: 1.159
+Accuracy of the network on the 2772 test images: 60.101010 %
+[6,  2500] loss: 0.941
+Accuracy of the network on the 2772 test images: 62.987013 %
+[7,  2500] loss: 0.736
+Accuracy of the network on the 2772 test images: 64.213564 %
+[8,  2500] loss: 0.666
+Accuracy of the network on the 2772 test images: 62.770563 %
+[9,  2500] loss: 0.610
+Accuracy of the network on the 2772 test images: 63.852814 %
+[10,  2500] loss: 0.589
+Accuracy of the network on the 2772 test images: 66.017316 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  36
+[1,  2500] loss: 3.275
+Accuracy of the network on the 2772 test images: 15.440115 %
+[2,  2500] loss: 2.610
+Accuracy of the network on the 2772 test images: 26.695527 %
+[3,  2500] loss: 1.862
+Accuracy of the network on the 2772 test images: 45.995671 %
+[4,  2500] loss: 1.402
+Accuracy of the network on the 2772 test images: 54.473304 %
+[5,  2500] loss: 1.124
+Accuracy of the network on the 2772 test images: 60.353535 %
+[6,  2500] loss: 0.882
+Accuracy of the network on the 2772 test images: 56.962482 %
+[7,  2500] loss: 0.747
+Accuracy of the network on the 2772 test images: 61.652237 %
+[8,  2500] loss: 0.672
+Accuracy of the network on the 2772 test images: 60.533911 %
+[9,  2500] loss: 0.570
+Accuracy of the network on the 2772 test images: 61.760462 %
+[10,  2500] loss: 0.578
+Accuracy of the network on the 2772 test images: 62.590188 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  37
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[3,  2500] loss: 3.248
+Accuracy of the network on the 2772 test images: 18.326118 %
+[4,  2500] loss: 2.397
+Accuracy of the network on the 2772 test images: 40.584416 %
+[5,  2500] loss: 1.657
+Accuracy of the network on the 2772 test images: 52.380952 %
+[6,  2500] loss: 1.264
+Accuracy of the network on the 2772 test images: 59.126984 %
+[7,  2500] loss: 0.973
+Accuracy of the network on the 2772 test images: 64.646465 %
+[8,  2500] loss: 0.781
+Accuracy of the network on the 2772 test images: 60.930736 %
+[9,  2500] loss: 0.655
+Accuracy of the network on the 2772 test images: 59.235209 %
+[10,  2500] loss: 0.583
+Accuracy of the network on the 2772 test images: 65.548341 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  38
+[1,  2500] loss: 3.328
+Accuracy of the network on the 2772 test images: 6.746032 %
+[2,  2500] loss: 2.933
+Accuracy of the network on the 2772 test images: 24.134199 %
+[3,  2500] loss: 2.160
+Accuracy of the network on the 2772 test images: 43.290043 %
+[4,  2500] loss: 1.664
+Accuracy of the network on the 2772 test images: 53.318903 %
+[5,  2500] loss: 1.344
+Accuracy of the network on the 2772 test images: 56.782107 %
+[6,  2500] loss: 1.070
+Accuracy of the network on the 2772 test images: 61.038961 %
+[7,  2500] loss: 0.911
+Accuracy of the network on the 2772 test images: 47.294372 %
+[8,  2500] loss: 1.072
+Accuracy of the network on the 2772 test images: 59.090909 %
+[9,  2500] loss: 0.782
+Accuracy of the network on the 2772 test images: 60.786436 %
+[10,  2500] loss: 0.691
+Accuracy of the network on the 2772 test images: 62.518038 %
+Finished Training
+first layer:  6  second layer:  12  third layer:  39
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.643579 %
+[2,  2500] loss: 3.025
+Accuracy of the network on the 2772 test images: 25.000000 %
+[3,  2500] loss: 2.236
+Accuracy of the network on the 2772 test images: 41.919192 %
+[4,  2500] loss: 1.626
+Accuracy of the network on the 2772 test images: 54.761905 %
+[5,  2500] loss: 1.274
+Accuracy of the network on the 2772 test images: 54.761905 %
+[6,  2500] loss: 1.009
+Accuracy of the network on the 2772 test images: 63.744589 %
+[7,  2500] loss: 0.864
+Accuracy of the network on the 2772 test images: 62.987013 %
+[8,  2500] loss: 0.721
+Accuracy of the network on the 2772 test images: 57.395382 %
+[9,  2500] loss: 0.619
+Accuracy of the network on the 2772 test images: 60.966811 %
+[10,  2500] loss: 0.550
+Accuracy of the network on the 2772 test images: 58.116883 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  20
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 7.359307 %
+[2,  2500] loss: 3.007
+Accuracy of the network on the 2772 test images: 25.216450 %
+[3,  2500] loss: 2.141
+Accuracy of the network on the 2772 test images: 47.546898 %
+[4,  2500] loss: 1.535
+Accuracy of the network on the 2772 test images: 56.204906 %
+[5,  2500] loss: 1.157
+Accuracy of the network on the 2772 test images: 60.786436 %
+[6,  2500] loss: 0.942
+Accuracy of the network on the 2772 test images: 62.590188 %
+[7,  2500] loss: 0.728
+Accuracy of the network on the 2772 test images: 63.672439 %
+[8,  2500] loss: 0.618
+Accuracy of the network on the 2772 test images: 62.229437 %
+[9,  2500] loss: 0.697
+Accuracy of the network on the 2772 test images: 60.425685 %
+[10,  2500] loss: 0.477
+Accuracy of the network on the 2772 test images: 62.229437 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  21
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 3.607504 %
+[2,  2500] loss: 2.964
+Accuracy of the network on the 2772 test images: 25.865801 %
+[3,  2500] loss: 2.064
+Accuracy of the network on the 2772 test images: 42.640693 %
+[4,  2500] loss: 1.477
+Accuracy of the network on the 2772 test images: 58.946609 %
+[5,  2500] loss: 1.142
+Accuracy of the network on the 2772 test images: 63.924964 %
+[6,  2500] loss: 0.895
+Accuracy of the network on the 2772 test images: 65.476190 %
+[7,  2500] loss: 0.729
+Accuracy of the network on the 2772 test images: 62.085137 %
+[8,  2500] loss: 0.665
+Accuracy of the network on the 2772 test images: 65.043290 %
+[9,  2500] loss: 0.543
+Accuracy of the network on the 2772 test images: 60.389610 %
+[10,  2500] loss: 0.506
+Accuracy of the network on the 2772 test images: 67.460317 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  22
+[1,  2500] loss: 3.302
+Accuracy of the network on the 2772 test images: 15.043290 %
+[2,  2500] loss: 2.694
+Accuracy of the network on the 2772 test images: 33.080808 %
+[3,  2500] loss: 1.925
+Accuracy of the network on the 2772 test images: 47.943723 %
+[4,  2500] loss: 1.437
+Accuracy of the network on the 2772 test images: 57.900433 %
+[5,  2500] loss: 1.130
+Accuracy of the network on the 2772 test images: 60.317460 %
+[6,  2500] loss: 0.905
+Accuracy of the network on the 2772 test images: 63.961039 %
+[7,  2500] loss: 0.748
+Accuracy of the network on the 2772 test images: 61.507937 %
+[8,  2500] loss: 0.664
+Accuracy of the network on the 2772 test images: 64.430014 %
+[9,  2500] loss: 0.569
+Accuracy of the network on the 2772 test images: 62.914863 %
+[10,  2500] loss: 0.571
+Accuracy of the network on the 2772 test images: 59.487734 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  23
+[1,  2500] loss: 3.313
+Accuracy of the network on the 2772 test images: 10.101010 %
+[2,  2500] loss: 2.775
+Accuracy of the network on the 2772 test images: 33.116883 %
+[3,  2500] loss: 1.946
+Accuracy of the network on the 2772 test images: 42.027417 %
+[4,  2500] loss: 1.446
+Accuracy of the network on the 2772 test images: 54.220779 %
+[5,  2500] loss: 1.114
+Accuracy of the network on the 2772 test images: 61.940837 %
+[6,  2500] loss: 0.885
+Accuracy of the network on the 2772 test images: 64.105339 %
+[7,  2500] loss: 0.706
+Accuracy of the network on the 2772 test images: 61.507937 %
+[8,  2500] loss: 0.595
+Accuracy of the network on the 2772 test images: 63.455988 %
+[9,  2500] loss: 0.519
+Accuracy of the network on the 2772 test images: 64.826840 %
+[10,  2500] loss: 0.505
+Accuracy of the network on the 2772 test images: 64.177489 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  24
+[1,  2500] loss: 3.327
+Accuracy of the network on the 2772 test images: 4.509380 %
+[2,  2500] loss: 2.929
+Accuracy of the network on the 2772 test images: 27.922078 %
+[3,  2500] loss: 2.093
+Accuracy of the network on the 2772 test images: 44.985570 %
+[4,  2500] loss: 1.573
+Accuracy of the network on the 2772 test images: 52.886003 %
+[5,  2500] loss: 1.264
+Accuracy of the network on the 2772 test images: 58.694084 %
+[6,  2500] loss: 1.029
+Accuracy of the network on the 2772 test images: 57.539683 %
+[7,  2500] loss: 0.870
+Accuracy of the network on the 2772 test images: 60.533911 %
+[8,  2500] loss: 0.710
+Accuracy of the network on the 2772 test images: 58.297258 %
+[9,  2500] loss: 0.675
+Accuracy of the network on the 2772 test images: 53.282828 %
+[10,  2500] loss: 0.611
+Accuracy of the network on the 2772 test images: 61.075036 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  25
+[1,  2500] loss: 3.302
+Accuracy of the network on the 2772 test images: 12.012987 %
+[2,  2500] loss: 2.642
+Accuracy of the network on the 2772 test images: 36.075036 %
+[3,  2500] loss: 1.855
+Accuracy of the network on the 2772 test images: 48.953824 %
+[4,  2500] loss: 1.373
+Accuracy of the network on the 2772 test images: 56.673882 %
+[5,  2500] loss: 1.066
+Accuracy of the network on the 2772 test images: 61.291486 %
+[6,  2500] loss: 0.838
+Accuracy of the network on the 2772 test images: 63.095238 %
+[7,  2500] loss: 0.689
+Accuracy of the network on the 2772 test images: 62.698413 %
+[8,  2500] loss: 0.572
+Accuracy of the network on the 2772 test images: 65.476190 %
+[9,  2500] loss: 0.507
+Accuracy of the network on the 2772 test images: 64.718615 %
+[10,  2500] loss: 0.449
+Accuracy of the network on the 2772 test images: 63.564214 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  26
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.643579 %
+[2,  2500] loss: 3.243
+Accuracy of the network on the 2772 test images: 18.109668 %
+[3,  2500] loss: 2.478
+Accuracy of the network on the 2772 test images: 37.806638 %
+[4,  2500] loss: 1.806
+Accuracy of the network on the 2772 test images: 50.144300 %
+[5,  2500] loss: 1.416
+Accuracy of the network on the 2772 test images: 56.998557 %
+[6,  2500] loss: 1.136
+Accuracy of the network on the 2772 test images: 59.776335 %
+[7,  2500] loss: 0.938
+Accuracy of the network on the 2772 test images: 61.616162 %
+[8,  2500] loss: 0.762
+Accuracy of the network on the 2772 test images: 62.301587 %
+[9,  2500] loss: 0.628
+Accuracy of the network on the 2772 test images: 61.940837 %
+[10,  2500] loss: 0.510
+Accuracy of the network on the 2772 test images: 63.095238 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  27
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 5.411255 %
+[2,  2500] loss: 3.329
+Accuracy of the network on the 2772 test images: 9.199134 %
+[3,  2500] loss: 2.832
+Accuracy of the network on the 2772 test images: 27.236652 %
+[4,  2500] loss: 2.017
+Accuracy of the network on the 2772 test images: 47.979798 %
+[5,  2500] loss: 1.413
+Accuracy of the network on the 2772 test images: 59.126984 %
+[6,  2500] loss: 1.041
+Accuracy of the network on the 2772 test images: 56.240981 %
+[7,  2500] loss: 0.813
+Accuracy of the network on the 2772 test images: 66.738817 %
+[8,  2500] loss: 0.658
+Accuracy of the network on the 2772 test images: 65.079365 %
+[9,  2500] loss: 0.541
+Accuracy of the network on the 2772 test images: 67.171717 %
+[10,  2500] loss: 0.517
+Accuracy of the network on the 2772 test images: 64.105339 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  28
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 5.699856 %
+[2,  2500] loss: 3.019
+Accuracy of the network on the 2772 test images: 20.490620 %
+[3,  2500] loss: 2.206
+Accuracy of the network on the 2772 test images: 42.388167 %
+[4,  2500] loss: 1.601
+Accuracy of the network on the 2772 test images: 55.519481 %
+[5,  2500] loss: 1.189
+Accuracy of the network on the 2772 test images: 61.976912 %
+[6,  2500] loss: 0.912
+Accuracy of the network on the 2772 test images: 61.724387 %
+[7,  2500] loss: 0.726
+Accuracy of the network on the 2772 test images: 66.197691 %
+[8,  2500] loss: 0.610
+Accuracy of the network on the 2772 test images: 65.945166 %
+[9,  2500] loss: 0.558
+Accuracy of the network on the 2772 test images: 62.012987 %
+[10,  2500] loss: 0.484
+Accuracy of the network on the 2772 test images: 65.404040 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  29
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 4.797980 %
+[2,  2500] loss: 2.990
+Accuracy of the network on the 2772 test images: 23.196248 %
+[3,  2500] loss: 2.275
+Accuracy of the network on the 2772 test images: 39.249639 %
+[4,  2500] loss: 1.659
+Accuracy of the network on the 2772 test images: 54.112554 %
+[5,  2500] loss: 1.321
+Accuracy of the network on the 2772 test images: 51.298701 %
+[6,  2500] loss: 1.053
+Accuracy of the network on the 2772 test images: 63.095238 %
+[7,  2500] loss: 0.883
+Accuracy of the network on the 2772 test images: 59.992785 %
+[8,  2500] loss: 0.759
+Accuracy of the network on the 2772 test images: 58.008658 %
+[9,  2500] loss: 0.734
+Accuracy of the network on the 2772 test images: 62.518038 %
+[10,  2500] loss: 0.580
+Accuracy of the network on the 2772 test images: 61.471861 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  30
+[1,  2500] loss: 3.317
+Accuracy of the network on the 2772 test images: 10.497835 %
+[2,  2500] loss: 2.778
+Accuracy of the network on the 2772 test images: 30.916306 %
+[3,  2500] loss: 1.984
+Accuracy of the network on the 2772 test images: 49.531025 %
+[4,  2500] loss: 1.467
+Accuracy of the network on the 2772 test images: 52.813853 %
+[5,  2500] loss: 1.179
+Accuracy of the network on the 2772 test images: 57.936508 %
+[6,  2500] loss: 0.959
+Accuracy of the network on the 2772 test images: 61.868687 %
+[7,  2500] loss: 0.779
+Accuracy of the network on the 2772 test images: 59.956710 %
+[8,  2500] loss: 0.684
+Accuracy of the network on the 2772 test images: 55.808081 %
+[9,  2500] loss: 0.592
+Accuracy of the network on the 2772 test images: 64.754690 %
+[10,  2500] loss: 0.579
+Accuracy of the network on the 2772 test images: 54.112554 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  31
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.076
+Accuracy of the network on the 2772 test images: 16.919192 %
+[3,  2500] loss: 2.328
+Accuracy of the network on the 2772 test images: 38.059163 %
+[4,  2500] loss: 1.659
+Accuracy of the network on the 2772 test images: 56.854257 %
+[5,  2500] loss: 1.263
+Accuracy of the network on the 2772 test images: 59.812410 %
+[6,  2500] loss: 0.982
+Accuracy of the network on the 2772 test images: 59.595960 %
+[7,  2500] loss: 0.794
+Accuracy of the network on the 2772 test images: 64.393939 %
+[8,  2500] loss: 0.657
+Accuracy of the network on the 2772 test images: 63.203463 %
+[9,  2500] loss: 0.582
+Accuracy of the network on the 2772 test images: 63.636364 %
+[10,  2500] loss: 0.505
+Accuracy of the network on the 2772 test images: 63.455988 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  32
+[1,  2500] loss: 3.328
+Accuracy of the network on the 2772 test images: 10.137085 %
+[2,  2500] loss: 2.873
+Accuracy of the network on the 2772 test images: 26.695527 %
+[3,  2500] loss: 2.109
+Accuracy of the network on the 2772 test images: 42.316017 %
+[4,  2500] loss: 1.643
+Accuracy of the network on the 2772 test images: 51.515152 %
+[5,  2500] loss: 1.391
+Accuracy of the network on the 2772 test images: 50.937951 %
+[6,  2500] loss: 1.137
+Accuracy of the network on the 2772 test images: 55.050505 %
+[7,  2500] loss: 1.004
+Accuracy of the network on the 2772 test images: 58.477633 %
+[8,  2500] loss: 0.801
+Accuracy of the network on the 2772 test images: 57.215007 %
+[9,  2500] loss: 0.692
+Accuracy of the network on the 2772 test images: 60.606061 %
+[10,  2500] loss: 0.651
+Accuracy of the network on the 2772 test images: 64.502165 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  33
+[1,  2500] loss: 3.332
+Accuracy of the network on the 2772 test images: 5.447330 %
+[2,  2500] loss: 2.955
+Accuracy of the network on the 2772 test images: 25.505051 %
+[3,  2500] loss: 2.073
+Accuracy of the network on the 2772 test images: 49.458874 %
+[4,  2500] loss: 1.454
+Accuracy of the network on the 2772 test images: 57.864358 %
+[5,  2500] loss: 1.096
+Accuracy of the network on the 2772 test images: 61.507937 %
+[6,  2500] loss: 0.867
+Accuracy of the network on the 2772 test images: 64.393939 %
+[7,  2500] loss: 0.668
+Accuracy of the network on the 2772 test images: 62.481962 %
+[8,  2500] loss: 0.581
+Accuracy of the network on the 2772 test images: 61.796537 %
+[9,  2500] loss: 0.533
+Accuracy of the network on the 2772 test images: 64.898990 %
+[10,  2500] loss: 0.478
+Accuracy of the network on the 2772 test images: 65.295815 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  34
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 4.761905 %
+[2,  2500] loss: 3.084
+Accuracy of the network on the 2772 test images: 15.728716 %
+[3,  2500] loss: 2.364
+Accuracy of the network on the 2772 test images: 36.147186 %
+[4,  2500] loss: 1.677
+Accuracy of the network on the 2772 test images: 54.509380 %
+[5,  2500] loss: 1.274
+Accuracy of the network on the 2772 test images: 58.730159 %
+[6,  2500] loss: 0.977
+Accuracy of the network on the 2772 test images: 60.425685 %
+[7,  2500] loss: 0.813
+Accuracy of the network on the 2772 test images: 63.780664 %
+[8,  2500] loss: 0.635
+Accuracy of the network on the 2772 test images: 62.914863 %
+[9,  2500] loss: 0.545
+Accuracy of the network on the 2772 test images: 65.079365 %
+[10,  2500] loss: 0.472
+Accuracy of the network on the 2772 test images: 62.229437 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  35
+[1,  2500] loss: 3.323
+Accuracy of the network on the 2772 test images: 6.457431 %
+[2,  2500] loss: 2.761
+Accuracy of the network on the 2772 test images: 38.059163 %
+[3,  2500] loss: 1.980
+Accuracy of the network on the 2772 test images: 47.582973 %
+[4,  2500] loss: 1.502
+Accuracy of the network on the 2772 test images: 55.411255 %
+[5,  2500] loss: 1.207
+Accuracy of the network on the 2772 test images: 59.090909 %
+[6,  2500] loss: 1.003
+Accuracy of the network on the 2772 test images: 58.405483 %
+[7,  2500] loss: 0.828
+Accuracy of the network on the 2772 test images: 62.265512 %
+[8,  2500] loss: 0.698
+Accuracy of the network on the 2772 test images: 62.445887 %
+[9,  2500] loss: 0.669
+Accuracy of the network on the 2772 test images: 61.363636 %
+[10,  2500] loss: 0.632
+Accuracy of the network on the 2772 test images: 58.297258 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  36
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.860029 %
+[2,  2500] loss: 3.271
+Accuracy of the network on the 2772 test images: 15.187590 %
+[3,  2500] loss: 2.600
+Accuracy of the network on the 2772 test images: 33.946609 %
+[4,  2500] loss: 1.846
+Accuracy of the network on the 2772 test images: 52.561328 %
+[5,  2500] loss: 1.325
+Accuracy of the network on the 2772 test images: 59.451659 %
+[6,  2500] loss: 1.008
+Accuracy of the network on the 2772 test images: 60.461760 %
+[7,  2500] loss: 0.811
+Accuracy of the network on the 2772 test images: 60.497835 %
+[8,  2500] loss: 0.694
+Accuracy of the network on the 2772 test images: 65.512266 %
+[9,  2500] loss: 0.541
+Accuracy of the network on the 2772 test images: 65.656566 %
+[10,  2500] loss: 0.479
+Accuracy of the network on the 2772 test images: 57.792208 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  37
+[1,  2500] loss: 3.333
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.076
+Accuracy of the network on the 2772 test images: 19.552670 %
+[3,  2500] loss: 2.255
+Accuracy of the network on the 2772 test images: 41.486291 %
+[4,  2500] loss: 1.661
+Accuracy of the network on the 2772 test images: 49.855700 %
+[5,  2500] loss: 1.299
+Accuracy of the network on the 2772 test images: 58.477633 %
+[6,  2500] loss: 1.042
+Accuracy of the network on the 2772 test images: 62.049062 %
+[7,  2500] loss: 0.842
+Accuracy of the network on the 2772 test images: 63.203463 %
+[8,  2500] loss: 0.667
+Accuracy of the network on the 2772 test images: 62.409812 %
+[9,  2500] loss: 0.572
+Accuracy of the network on the 2772 test images: 62.445887 %
+[10,  2500] loss: 0.567
+Accuracy of the network on the 2772 test images: 63.961039 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  38
+[1,  2500] loss: 3.322
+Accuracy of the network on the 2772 test images: 6.998557 %
+[2,  2500] loss: 2.826
+Accuracy of the network on the 2772 test images: 29.292929 %
+[3,  2500] loss: 2.027
+Accuracy of the network on the 2772 test images: 49.711400 %
+[4,  2500] loss: 1.438
+Accuracy of the network on the 2772 test images: 53.896104 %
+[5,  2500] loss: 1.144
+Accuracy of the network on the 2772 test images: 60.353535 %
+[6,  2500] loss: 0.868
+Accuracy of the network on the 2772 test images: 60.353535 %
+[7,  2500] loss: 0.748
+Accuracy of the network on the 2772 test images: 63.455988 %
+[8,  2500] loss: 0.649
+Accuracy of the network on the 2772 test images: 61.507937 %
+[9,  2500] loss: 0.562
+Accuracy of the network on the 2772 test images: 66.125541 %
+[10,  2500] loss: 0.545
+Accuracy of the network on the 2772 test images: 61.976912 %
+Finished Training
+first layer:  6  second layer:  13  third layer:  39
+[1,  2500] loss: 3.334
+Accuracy of the network on the 2772 test images: 3.571429 %
+[2,  2500] loss: 3.331
+Accuracy of the network on the 2772 test images: 5.483405 %
+[3,  2500] loss: 3.017
+Accuracy of the network on the 2772 test images: 17.712843 %
+[4,  2500] loss: 2.203
+Accuracy of the network on the 2772 test images: 41.341991 %
+[5,  2500] loss: 1.564
+Accuracy of the network on the 2772 test images: 54.761905 %

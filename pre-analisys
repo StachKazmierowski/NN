@@ -1,0 +1,29 @@
+
+
+++
+1. Zdjęcia są dobrze wykadrowane.
+
+
+--
+(Opis na podstawie zdjęć Natalie Portman)
+1. Występuje duże odchylenie w jakości. (109, 117, 146, 201, 225, 275, 293, 432, 438, 455)
+2. Alogrytm ma działać na zasadzie rozpoznawania twarzy, a nie zawsze twarz wskazanej osoby jest jedyną na zdjęciu.
+Zdarza się, że jest też nie tą najlepiej widoczną.(117, 118, 123, 133, 174, 221, 234, 250, 278, 314, 325, 343, 379, 381,
+411, 479, 481)
+3. Są zdjecia bardzo odchylone od właściwego obrazu, np. przez mikrofon zasłaniający twarz, bardzo silny makijaż lub
+bycie zdjeciem wtórnym. (185, 197, 206, 265, 270, 297, 326, 389, 392, 433, 460)
+4. Są wreszcie zdjęcia błędnie przypisane do osoby(280, 286, 295, 347, 399)
+Na podstawie zdjęć Natalie Portman, na pewno [4] będą złymi danymi do nauki, można spodziewać się że [2] również, być
+może też [1] i [3].
+[2] + [4] to w sumie 22 zdjęcia, [1] + [3] to 21, łączna próbka to 400 zdjęć, zatem spodziewamy się dokładności w
+przedziale:
+[1 - (22+21)/400; 1 - 22/400] czyli [89.25%; 94.5%]
+
+
+
+
+Grono osób do których należy przypisać zdjęcia można podzielić na nastepujące sposoby:
+18 kobiet, 10 mężczyzn
+Z perspektywny niezależnego obserwatora, grupa wybranych osób jest do siebie niepodobna ze względu na wygląd. Z drugiej
+strony, zdjecia przedstawiają ludzkie twarze które są podobne w kształcie, zatem model może mieć dużę trudności z
+rozstrzyganiem.
